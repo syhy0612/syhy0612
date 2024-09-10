@@ -12,13 +12,15 @@
 
 </div>
 
-> This is the main character from the first anime I ever watched; her name is Isla, and I really like her.  
-> 这是我第一部二次元入坑番的女主，她叫艾拉，我很喜欢她。  
+> The one in the picture is the main character from the first anime I ever watched; her name is Isla, and I really like her.  
+> 图中是我第一部二次元入坑番的女主，她叫艾拉，我很喜欢她。  
 > Image credit / 图片出处：https://www.pixiv.net/artworks/50983269
 
-![亮色](https://raw.githubusercontent.com/syhy0612/syhy0612/output/github-contribution-grid-snake.svg)
-
-![暗色](https://raw.githubusercontent.com/syhy0612/syhy0612/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syhy0612/syhy0612/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syhy0612/syhy0612/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <div align="center">
 
@@ -34,7 +36,7 @@ Hello! I'm **Double Leaves**, a front-end developer. I love to create cool web e
 
 <div align="center">
 
-## 💻 Commonly used software / 常用软件
+## 💻 Familiar Software / 常用软件
 
 <img src="https://skillicons.dev/icons?i=ps,ai,vscode,webstorm,visualstudio,idea,postman" alt="loading"/>
 
