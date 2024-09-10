@@ -24,6 +24,8 @@
 
 <div align="center">
 
+---
+
 ## 👋 About Me / 自我介绍
 
 </div>
