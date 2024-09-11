@@ -48,7 +48,7 @@ Hello! I'm **Double Leaves**, a front-end developer. I love to create cool web e
 
 </div>
 
-- [**狼人杀在线笔记**](https://github.com/syhy0612/vuePractice): 一个为狼人杀玩家设计的在线笔记工具，帮助玩家记录发言信息，提升游戏体验。
+- [**狼人杀在线笔记**](https://github.com/syhy0612/lrsnotes): 一个为狼人杀玩家设计的在线笔记工具，帮助玩家记录发言信息，提升游戏体验。
 - [**Vue Practice**](https://github.com/syhy0612/vuePractice): 一个练习Vue.js时建的仓库。
 
 <div align="center">
