@@ -1,6 +1,6 @@
 # <img src="./static/meow_party.gif" width="45"/> Focus here~
 
-<img src="./static/nav.gif" width="100%"  height="3" alt="welcome"/>
+<img src="./static/nav.gif" style="width: 2000px; height: 3px;" alt="goodbye"/>
 
 <div align="center">
 
@@ -63,4 +63,4 @@ Hello! I'm **Double Leaves**, a front-end developer. I love to create cool web e
 - **GitHub**: [syhy0612](https://github.com/syhy0612)
 - **Gitee**: [syhy0612](https://gitee.com/syhy0612)
 
-<img src="./static/nav.gif" width="100%" height="3" alt="goodbye"/>
+<img src="./static/nav.gif" style="width: 2000px; height: 3px;" alt="goodbye"/>
